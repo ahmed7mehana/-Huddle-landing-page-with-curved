@@ -3,6 +3,13 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
+.header .container{
+padding-left: 20px;
+padding-right: 20px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 30px;
+}
 .header .nav{
     display:flex;
     justify-content: space-between;
